@@ -1,0 +1,1 @@
+## [Artificial Intelligence - Information Retrieval And Text Mining](https://github.com/FMI-Materials/FMI-Master-AI-Materials/tree/main/Year%20II/Semester%20I/Information%20Retrieval%20And%20Text%20Mining)

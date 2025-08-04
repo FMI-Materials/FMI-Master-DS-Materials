@@ -1,0 +1,1 @@
+## [Artificial Intelligence - Probabilistic Programming](https://github.com/FMI-Materials/FMI-Master-AI-Materials/tree/main/Year%20I/Semester%20I/Probabilistic%20Programming)
