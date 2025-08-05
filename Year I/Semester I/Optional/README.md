@@ -6,7 +6,7 @@
 - [Proiectarea Algoritmilor Eficienti](https://github.com/FMI-Materials/FMI-Master-IS-Materials/tree/main/Year%20I/Semester%20I/Proiectarea%20Algoritmilor%20Eficienti)
 - Modelarea Si Analiza Sistemelor Software
 - [Managementul Si Organizarea Proiectelor Software](https://github.com/FMI-Materials/FMI-Master-IS-Materials/tree/main/Year%20I/Semester%20I/Managementul%20Si%20Organizarea%20Proiectelor%20Software)
-- Knowledge Representations And Reasoning
+- [Knowledge Representations And Reasoning](https://github.com/FMI-Materials/FMI-Master-AI-Materials/tree/main/Year%20I/Semester%20I/Probabilistic%20Programming)
 - Programare Paralela
 - [Operating Systems Design And Security](https://github.com/FMI-Materials/FMI-Master-SAL-Materials/tree/main/Year%20I/Semester%20I/Operating%20Systems%20Design%20And%20Security)
 - [Advanced Cryptography](https://github.com/FMI-Materials/FMI-Master-SAL-Materials/tree/main/Year%20I/Semester%20I/Advanced%20Cryptography)
