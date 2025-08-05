@@ -3,13 +3,13 @@
 ### [Year I](https://github.com/FMI-Materials/FMI-Master-DS-Materials/tree/main/Year%20I)
 | Semester | Discipline                                                     | C | S | L | P | FE | Credits |
 |----------|----------------------------------------------------------------|---|---|---|---|----|---------|
-| I        | Practical Machine Learning (PML)                                 | 2 | 1 | - | - | E  | 6       |
-| I        | Probabilistic Programming (PP)                                   | 2 | 1 | - | - | E  | 6       |
+| I        | [Practical Machine Learning (PML)](https://github.com/FMI-Materials/FMI-Master-DS-Materials/tree/main/Year%20I/Semester%20I/Practical%20Machine%20Learning)                          | 2 | 1 | - | - | E  | 6       |
+| I        | [Probabilistic Programming (PP)](https://github.com/FMI-Materials/FMI-Master-DS-Materials/tree/main/Year%20I/Semester%20I/Probabilistic%20Programming)                            | 2 | 1 | - | - | E  | 6       |
 | I        | Exploratory Data Analysis (EDA)                                  | 2 | 1 | - | - | E  | 6       |
 | I        | [Optional 1](https://github.com/FMI-Materials/FMI-Master-DS-Materials/tree/main/Year%20I/Semester%20I/Optional)                                                | 2 | 1 | - | - | E  | 6       |
 | I        | Ethics And Academic Integrity (EAI)                              | 1 | - | - | - | V  | 2       |
 | I        | [Practical Training](https://fmi.unibuc.ro/practica/)                                        | - | 2 | - | - | V  | 4       |
-| II       | Advanced Machine Learning (AML)                                  | 2 | 1 | - | - | E  | 6       |
+| II       | [Advanced Machine Learning (AML)](https://github.com/FMI-Materials/FMI-Master-DS-Materials/tree/main/Year%20I/Semester%20II/Advanced%20Machine%20Learning)                           | 2 | 1 | - | - | E  | 6       |
 | II       | Big Data (BD)                                                    | 2 | 1 | - | - | E  | 6       |
 | II       | Statistics For Data Science (SDS)                                | 2 | 1 | - | - | E  | 6       |
 | II       | [Optional 2](https://github.com/FMI-Materials/FMI-Master-DS-Materials/tree/main/Year%20I/Semester%20II/Optional)                                                | 2 | 1 | - | - | E  | 6       |

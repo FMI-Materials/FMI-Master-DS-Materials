@@ -1,1 +1,0 @@
-## [Artificial Intelligence - Deep Learning](https://github.com/FMI-Materials/FMI-Master-AI-Materials/tree/main/Year%20II/Semester%20I/Deep%20Learning)
